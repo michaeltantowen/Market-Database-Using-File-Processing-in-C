@@ -1,0 +1,13 @@
+Indomi Goreng#IG001#178
+Indomi Kuah#IK002#90
+Jus Anggur#JA003#100
+Terima Angin#TA004#40
+Jus Apel#JA005#60
+Coklat Bang Bang#CBB006#120
+Permen Milkami#PM007#50
+Permen Kopikau#PK008#90
+Susu Sapi#SS009#105
+Bulu Domba#BD010#120
+Mesin Cukur#MC011#12
+Sepatu Sekolah#SS012#20
+Peralatan Sekolah#PS013#60
